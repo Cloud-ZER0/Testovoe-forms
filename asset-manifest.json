@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Testovoe-forms/static/css/main.2019f320.css",
+    "main.js": "/Testovoe-forms/static/js/main.1d856dbe.js",
+    "static/media/TTTravels-Regular.woff": "/Testovoe-forms/static/media/TTTravels-Regular.2edbafbb38c30d0b78da.woff",
+    "index.html": "/Testovoe-forms/index.html",
+    "main.2019f320.css.map": "/Testovoe-forms/static/css/main.2019f320.css.map",
+    "main.1d856dbe.js.map": "/Testovoe-forms/static/js/main.1d856dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2019f320.css",
+    "static/js/main.1d856dbe.js"
+  ]
+}
