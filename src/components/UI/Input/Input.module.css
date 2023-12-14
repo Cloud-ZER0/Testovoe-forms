@@ -1,0 +1,40 @@
+.inpt {
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid #00000029;
+  min-height: 40px;
+  width: 400px;
+  padding-left: 10px;
+  box-sizing: border-box;
+  font-family: TT Travels;
+}
+
+.inpt:focus {
+  outline: none;
+}
+
+.inpt_wraper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: TT Travels;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #333333;
+  /* gap: 10px; */
+}
+
+.inpt_label_visible {
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+.inpt_label_hidden {
+  display: none;
+}
+
+@media (max-width: 650px) {
+  .inpt {
+    width: 100%;
+  }
+}

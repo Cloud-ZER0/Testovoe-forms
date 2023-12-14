@@ -1,0 +1,14 @@
+.section {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 24px;
+  background-color: whitesmoke;
+}
+
+@media (max-width: 400px) {
+  .section {
+    padding-top: 0px;
+  }
+}

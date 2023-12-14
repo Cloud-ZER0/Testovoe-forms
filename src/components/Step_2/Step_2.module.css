@@ -1,0 +1,49 @@
+.btn_wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.inpt_wrapper {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  max-height: 400px;
+}
+
+.adv_wrapper {
+  max-height: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: scroll;
+}
+
+.adv_wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.checkBoxGroup,
+.radioGroup {
+  border: none;
+}
+
+.group_label {
+  font-family: TT Travels;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+@media (max-width: 400px) {
+  .adv_wrapper {
+    max-height: 90px;
+  }
+}

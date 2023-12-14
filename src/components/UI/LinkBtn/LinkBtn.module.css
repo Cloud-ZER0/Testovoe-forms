@@ -1,0 +1,18 @@
+.LinkBtnDefault,
+.LinkBtnTransparent {
+  padding: 12px 16px;
+  border-radius: 4px;
+  background-color: #5558fa;
+  border: none;
+  color: #fff;
+  font-family: TT Travels;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.LinkBtnTransparent {
+  background-color: #fff;
+  color: #5558fa;
+  border: 1.5px solid #5558fa;
+}

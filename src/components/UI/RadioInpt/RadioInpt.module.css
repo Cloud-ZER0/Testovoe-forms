@@ -1,0 +1,20 @@
+.inpt {
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid gray;
+  padding-left: 10px;
+  box-sizing: border-box;
+  height: 20px;
+}
+
+.inpt_wraper {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  /* font-family: TT Travels; */
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #333333;
+  gap: 10px;
+}
