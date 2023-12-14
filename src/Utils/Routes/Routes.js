@@ -1,6 +1,6 @@
 export const ROUTS = {
-  DEFAULT: "/",
-  STEP_1: "/step_1",
-  STEP_2: "/step_2",
-  STEP_3: "/step_3",
+  DEFAULT: "/Testovoe-forms",
+  STEP_1: "/Testovoe-forms/step_1",
+  STEP_2: "/Testovoe-forms/step_2",
+  STEP_3: "/Testovoe-forms/step_3",
 };

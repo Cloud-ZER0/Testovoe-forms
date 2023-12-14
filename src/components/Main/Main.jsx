@@ -23,10 +23,7 @@ export const Main = () => {
  const {
     register,
     handleSubmit,
-    control,
-    watch,
     formState: { errors },
-    setError
   } = useForm()
 
   const onSubmit = (data) => {

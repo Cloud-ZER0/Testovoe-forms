@@ -1,5 +1,4 @@
 import styles from './Step_3.module.css'
-import { Input } from '../UI/Input/Input'
 import { LinkBtn } from '../UI/LinkBtn/LinkBtn'
 import { ROUTS } from '../../Utils/Routes/Routes'
 import { ProgresBar } from '../UI/ProrgressBar/ProgresBar'
